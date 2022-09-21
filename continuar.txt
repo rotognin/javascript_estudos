@@ -1,0 +1,4 @@
+Estou seguindo o w3schools de javascript
+Parei em Javascript Objects
+
+https://www.w3schools.com/js/js_objects.asp
