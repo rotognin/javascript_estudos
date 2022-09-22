@@ -55,3 +55,6 @@ console.log(Math.floor(valorRandom2));
 console.log("5 => " + Math.sign(5));
 console.log("0 => " + Math.sign(0));
 console.log("-5 => " + Math.sign(-5));
+
+// A função Math.trunc() retorna apenas a parte inteira de um número, sem arredondar
+const numeroRedondo = (() => {})();
