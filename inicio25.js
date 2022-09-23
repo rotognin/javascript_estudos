@@ -32,6 +32,10 @@ console.log(set);
 
 console.log(Array.from(set.values()));
 
+for (const valor of set.values()){
+    console.log(valor);
+}
+
 // União
 const conj1 = [1, [1, 2], true, 'Opa'];
 const conj2 = [2, [1, 2], false, 'Opa'];
