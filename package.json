@@ -1,0 +1,19 @@
+{
+  "name": "javascript_testes",
+  "version": "1.0.0",
+  "description": "Vários testes e estudos sobre o Javascript e Node",
+  "main": "inicio01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rotognin/javascript_estudos.git"
+  },
+  "author": "Rodrigo Tognin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rotognin/javascript_estudos/issues"
+  },
+  "homepage": "https://github.com/rotognin/javascript_estudos#readme"
+}
