@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/rotognin/javascript_estudos/issues"
   },
-  "homepage": "https://github.com/rotognin/javascript_estudos#readme"
+  "homepage": "https://github.com/rotognin/javascript_estudos#readme",
+  "type": "module"
 }
