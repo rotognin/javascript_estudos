@@ -16,5 +16,8 @@
     "url": "https://github.com/rotognin/javascript_estudos/issues"
   },
   "homepage": "https://github.com/rotognin/javascript_estudos#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
