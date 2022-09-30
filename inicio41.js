@@ -61,3 +61,11 @@ console.log(cidadao.endereco?.zip?.zipCompleto?.() ?? 'Função "zipCompleto" n�
 
 const chave = 'nome';
 console.log(cidadao[chave]); // Buscar uma propriedade do objeto usando uma variável
+
+// Tagged Template Literals
+function funcao (msg) {
+    return msg;
+}
+
+// Ao chamar a mensagem dessa forma, é retornado um array
+console.log(funcao`Opa, esse rapaz manda bala!`);
